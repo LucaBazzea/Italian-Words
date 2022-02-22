@@ -1,4 +1,4 @@
-# Italian-Words-API
+# Italian-Words
 A collection of 1000 common Italian words
 
 Nouns:<br/>
