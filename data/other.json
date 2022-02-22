@@ -1,0 +1,775 @@
+{
+    "other": {
+
+        "other_1": {
+            "ita":"il",
+            "eng":"the"
+        },
+
+        "other_2": {
+            "ita":"di",
+            "eng":"of"
+        },
+
+        "other_3": {
+            "ita":"e",
+            "eng":"is"
+        },
+
+        "other_4": {
+            "ita":"a",
+            "eng":"to"
+        },
+
+        "other_5": {
+            "ita":"un",
+            "eng":"a"
+        },
+
+        "other_6": {
+            "ita":"in",
+            "eng":"in"
+        },
+
+        "other_7": {
+            "ita":"che",
+            "eng":"that"
+        },
+
+        "other_8": {
+            "ita":"non",
+            "eng":"not"
+        },
+
+        "other_9": {
+            "ita":"si",
+            "eng":"Yes"
+        },
+
+        "other_10": {
+            "ita":"da",
+            "eng":"from"
+        },
+
+        "other_11": {
+            "ita":"lo",
+            "eng":"the"
+        },
+
+        "other_12": {
+            "ita":"per",
+            "eng":"for"
+        },
+
+        "other_13": {
+            "ita":"con",
+            "eng":"with"
+        },
+
+        "other_14": {
+            "ita":"ma",
+            "eng":"but"
+        },
+
+        "other_15": {
+            "ita":"come",
+            "eng":"how"
+        },
+
+        "other_16": {
+            "ita":"su",
+            "eng":"up"
+        },
+
+        "other_17": {
+            "ita":"mi",
+            "eng":"me"
+        },
+
+        "other_18": {
+            "ita":"anche",
+            "eng":"also"
+        },
+
+        "other_19": {
+            "ita":"o",
+            "eng":"or"
+        },
+
+        "other_20": {
+            "ita":"io",
+            "eng":"I"
+        },
+
+        "other_21": {
+            "ita":"se",
+            "eng":"self"
+        },
+
+        "other_22": {
+            "ita":"perché",
+            "eng":"because"
+        },
+
+        "other_23": {
+            "ita":"li",
+            "eng":"there"
+        },
+
+        "other_24": {
+            "ita":"ci",
+            "eng":"us"
+        },
+
+        "other_25": {
+            "ita":"ne",
+            "eng":"neither"
+        },
+
+        "other_26": {
+            "ita":"lei",
+            "eng":"she"
+        },
+
+        "other_27": {
+            "ita":"ancora",
+            "eng":"yet"
+        },
+
+        "other_28": {
+            "ita":"tu",
+            "eng":"you"
+        },
+
+        "other_29": {
+            "ita":"lui",
+            "eng":"he"
+        },
+
+        "other_30": {
+            "ita":"senza",
+            "eng":"without"
+        },
+
+        "other_31": {
+            "ita":"bene",
+            "eng":"well"
+        },
+
+        "other_32": {
+            "ita":"cui",
+            "eng":"which"
+        },
+
+        "other_33": {
+            "ita":"chi",
+            "eng":"who"
+        },
+
+        "other_34": {
+            "ita":"già",
+            "eng":"already"
+        },
+
+        "other_35": {
+            "ita":"dopo",
+            "eng":"after"
+        },
+
+        "other_36": {
+            "ita":"uno",
+            "eng":"one"
+        },
+
+        "other_37": {
+            "ita":"noi",
+            "eng":"we"
+        },
+
+        "other_38": {
+            "ita":"dove",
+            "eng":"where"
+        },
+
+        "other_39": {
+            "ita":"qui",
+            "eng":"here"
+        },
+
+        "other_40": {
+            "ita":"no",
+            "eng":"no"
+        },
+
+        "other_41": {
+            "ita":"allora",
+            "eng":"then"
+        },
+
+        "other_42": {
+            "ita":"tra",
+            "eng":"between"
+        },
+
+        "other_43": {
+            "ita":"vi",
+            "eng":"you"
+        },
+
+        "other_44": {
+            "ita":"ora",
+            "eng":"Now"
+        },
+
+        "other_45": {
+            "ita":"fra",
+            "eng":"between"
+        },
+
+        "other_46": {
+            "ita":"prima",
+            "eng":"before"
+        },
+
+        "other_47": {
+            "ita":"forse",
+            "eng":"perhaps"
+        },
+
+        "other_48": {
+            "ita":"sì",
+            "eng":"Yup"
+        },
+
+        "other_49": {
+            "ita":"sotto",
+            "eng":"under"
+        },
+
+        "other_50": {
+            "ita":"voi",
+            "eng":"you"
+        },
+
+        "other_51": {
+            "ita":"fino",
+            "eng":"till"
+        },
+
+        "other_52": {
+            "ita":"oggi",
+            "eng":"today"
+        },
+
+        "other_53": {
+            "ita":"quasi",
+            "eng":"almost"
+        },
+
+        "other_54": {
+            "ita":"pure",
+            "eng":"also"
+        },
+
+        "other_55": {
+            "ita":"egli",
+            "eng":"he"
+        },
+
+        "other_56": {
+            "ita":"mentre",
+            "eng":"while"
+        },
+
+        "other_57": {
+            "ita":"contro",
+            "eng":"versus"
+        },
+
+        "other_58": {
+            "ita":"invece",
+            "eng":"instead"
+        },
+
+        "other_59": {
+            "ita":"esso",
+            "eng":"it"
+        },
+
+        "other_60": {
+            "ita":"là",
+            "eng":"there"
+        },
+
+        "other_61": {
+            "ita":"però",
+            "eng":"However"
+        },
+
+        "other_62": {
+            "ita":"né",
+            "eng":"neither"
+        },
+
+        "other_63": {
+            "ita":"subito",
+            "eng":"immediately"
+        },
+
+        "other_64": {
+            "ita":"verso",
+            "eng":"towards"
+        },
+
+        "other_65": {
+            "ita":"ciò",
+            "eng":"it"
+        },
+
+        "other_66": {
+            "ita":"ecco",
+            "eng":"here"
+        },
+
+        "other_67": {
+            "ita":"loro",
+            "eng":"their"
+        },
+
+        "other_68": {
+            "ita":"essa",
+            "eng":"it"
+        },
+
+        "other_69": {
+            "ita":"fuori",
+            "eng":"outside"
+        },
+
+        "other_70": {
+            "ita":"meno",
+            "eng":"less"
+        },
+
+        "other_71": {
+            "ita":"adesso",
+            "eng":"now"
+        },
+
+        "other_72": {
+            "ita":"niente",
+            "eng":"nothing"
+        },
+
+        "other_73": {
+            "ita":"cioè",
+            "eng":"that is"
+        },
+
+        "other_74": {
+            "ita":"male",
+            "eng":"bad"
+        },
+
+        "other_75": {
+            "ita":"nulla",
+            "eng":"nothing"
+        },
+
+        "other_76": {
+            "ita":"ah",
+            "eng":"ha"
+        },
+
+        "other_77": {
+            "ita":"oh",
+            "eng":"Oh"
+        },
+
+        "other_78": {
+            "ita":"quindi",
+            "eng":"then"
+        },
+
+        "other_79": {
+            "ita":"appena",
+            "eng":"as soon as"
+        },
+
+        "other_80": {
+            "ita":"insieme",
+            "eng":"together"
+        },
+
+        "other_81": {
+            "ita":"dunque",
+            "eng":"therefore"
+        },
+
+        "other_82": {
+            "ita":"dentro",
+            "eng":"inside"
+        },
+
+        "other_83": {
+            "ita":"durante",
+            "eng":"during"
+        },
+
+        "other_84": {
+            "ita":"almeno",
+            "eng":"at least"
+        },
+
+        "other_85": {
+            "ita":"secondo",
+            "eng":"second"
+        },
+
+        "other_86": {
+            "ita":"anzi",
+            "eng":"rather"
+        },
+
+        "other_87": {
+            "ita":"oramai",
+            "eng":"now"
+        },
+
+        "other_88": {
+            "ita":"oltre",
+            "eng":"over"
+        },
+
+        "other_89": {
+            "ita":"intorno",
+            "eng":"around"
+        },
+
+        "other_90": {
+            "ita":"sopra",
+            "eng":"above"
+        },
+
+        "other_91": {
+            "ita":"dietro",
+            "eng":"behind"
+        },
+
+        "other_92": {
+            "ita":"davanti",
+            "eng":"in front of"
+        },
+
+        "other_93": {
+            "ita":"soltanto",
+            "eng":"only"
+        },
+
+        "other_94": {
+            "ita":"infatti",
+            "eng":"indeed"
+        },
+
+        "other_95": {
+            "ita":"qualcosa",
+            "eng":"something"
+        },
+
+        "other_96": {
+            "ita":"spesso",
+            "eng":"often"
+        },
+
+        "other_97": {
+            "ita":"accordo",
+            "eng":"agreement"
+        },
+
+        "other_98": {
+            "ita":"ieri",
+            "eng":"yesterday"
+        },
+
+        "other_99": {
+            "ita":"davvero",
+            "eng":"really"
+        },
+
+        "other_100": {
+            "ita":"lì",
+            "eng":"there"
+        },
+
+        "other_101": {
+            "ita":"qualcuno",
+            "eng":"someone"
+        },
+
+        "other_102": {
+            "ita":"avanti",
+            "eng":"come on"
+        },
+
+        "other_103": {
+            "ita":"assai",
+            "eng":"very"
+        },
+
+        "other_104": {
+            "ita":"presto",
+            "eng":"soon"
+        },
+
+        "other_105": {
+            "ita":"qua",
+            "eng":"here"
+        },
+
+        "other_106": {
+            "ita":"domani",
+            "eng":"tomorrow"
+        },
+
+        "other_107": {
+            "ita":"circa",
+            "eng":"about"
+        },
+
+        "other_108": {
+            "ita":"giù",
+            "eng":"down"
+        },
+
+        "other_109": {
+            "ita":"soprattutto",
+            "eng":"mostly"
+        },
+
+        "other_110": {
+            "ita":"nemmeno",
+            "eng":"not even"
+        },
+
+        "other_111": {
+            "ita":"grazie",
+            "eng":"thank you"
+        },
+
+        "other_112": {
+            "ita":"tuttavia",
+            "eng":"however"
+        },
+
+        "other_113": {
+            "ita":"appunto",
+            "eng":"just"
+        },
+
+        "other_114": {
+            "ita":"neppure",
+            "eng":"neither"
+        },
+
+        "other_115": {
+            "ita":"eh",
+            "eng":"huh"
+        },
+
+        "other_116": {
+            "ita":"veramente",
+            "eng":"really"
+        },
+
+        "other_117": {
+            "ita":"tardi",
+            "eng":"late"
+        },
+
+        "other_118": {
+            "ita":"insomma",
+            "eng":"in conclusion"
+        },
+
+        "other_119": {
+            "ita":"presso",
+            "eng":"At"
+        },
+
+        "other_120": {
+            "ita":"intanto",
+            "eng":"in the meantime"
+        },
+
+        "other_121": {
+            "ita":"lungo",
+            "eng":"long"
+        },
+
+        "other_122": {
+            "ita":"neanche",
+            "eng":"neither"
+        },
+
+        "other_123": {
+            "ita":"piuttosto",
+            "eng":"Rather"
+        },
+
+        "other_124": {
+            "ita":"stasera",
+            "eng":"tonight"
+        },
+
+        "other_125": {
+            "ita":"perciò",
+            "eng":"therefore"
+        },
+
+        "other_126": {
+            "ita":"naturalmente",
+            "eng":"of course, naturally"
+        },
+
+        "other_127": {
+            "ita":"accanto",
+            "eng":"next"
+        },
+
+        "other_128": {
+            "ita":"eppure",
+            "eng":"but yet"
+        },
+
+        "other_129": {
+            "ita":"eccetera",
+            "eng":"etc"
+        },
+
+        "other_130": {
+            "ita":"finalmente",
+            "eng":"finally"
+        },
+
+        "other_131": {
+            "ita":"infine",
+            "eng":"finally"
+        },
+
+        "other_132": {
+            "ita":"poiché",
+            "eng":"as"
+        },
+
+        "other_133": {
+            "ita":"comunque",
+            "eng":"However"
+        },
+
+        "other_134": {
+            "ita":"dinanzi",
+            "eng":"before"
+        },
+
+        "other_135": {
+            "ita":"abbastanza",
+            "eng":"enough"
+        },
+
+        "other_136": {
+            "ita":"peccato",
+            "eng":"sin"
+        },
+
+        "other_137": {
+            "ita":"certamente",
+            "eng":"certainly"
+        },
+
+        "other_138": {
+            "ita":"coloro",
+            "eng":"they"
+        },
+
+        "other_139": {
+            "ita":"attorno",
+            "eng":"about"
+        },
+
+        "other_140": {
+            "ita":"magari",
+            "eng":"maybe"
+        },
+
+        "other_141": {
+            "ita":"oppure",
+            "eng":"or"
+        },
+
+        "other_142": {
+            "ita":"inoltre",
+            "eng":"Moreover"
+        },
+
+        "other_143": {
+            "ita":"indietro",
+            "eng":"back"
+        },
+
+        "other_144": {
+            "ita":"addosso",
+            "eng":"on"
+        },
+
+        "other_145": {
+            "ita":"addirittura",
+            "eng":"even"
+        },
+
+        "other_146": {
+            "ita":"finché",
+            "eng":"as long as"
+        },
+
+        "other_147": {
+            "ita":"perfino",
+            "eng":"even"
+        },
+
+        "other_148": {
+            "ita":"affatto",
+            "eng":"at all"
+        },
+
+        "other_149": {
+            "ita":"stamattina",
+            "eng":"This morning"
+        },
+
+        "other_150": {
+            "ita":"completamente",
+             "eng":"completely"
+        },
+
+        "other_151": {
+            "ita":"probabilmente",
+            "eng":"probably"
+        },
+
+        "other_152": {
+            "ita":"chissà",
+            "eng":"who knows"
+        },
+
+        "other_153": {
+            "ita":"ognuno",
+            "eng":"each one"
+        },
+
+        "other_154": {
+            "ita":"entro",
+            "eng":"within"
+        }
+
+    }
+}

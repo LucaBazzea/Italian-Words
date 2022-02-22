@@ -1,0 +1,1640 @@
+{
+    "verbs": {
+
+        "verb_1": {
+            "ita":"essere",
+            "eng":"to be"
+        },
+
+        "verb_2": {
+            "ita":"avere",
+            "eng":"to have"
+        },
+
+        "verb_3": {
+            "ita":"dire",
+            "eng":"to say"
+        },
+
+        "verb_4": {
+            "ita":"potere",
+            "eng":"can"
+        },
+
+        "verb_5": {
+            "ita":"volere",
+            "eng":"want"
+        },
+
+        "verb_6": {
+            "ita":"sapere",
+            "eng":"to know"
+        },
+
+        "verb_7": {
+            "ita":"stare",
+            "eng":"to stay"
+        },
+
+        "verb_8": {
+            "ita":"dovere",
+            "eng":"must"
+        },
+
+        "verb_9": {
+            "ita":"vedere",
+            "eng":"to see"
+        },
+
+        "verb_10": {
+            "ita":"andare",
+            "eng":"to go"
+        },
+
+        "verb_11": {
+            "ita":"venire",
+            "eng":"to come"
+        },
+
+        "verb_12": {
+            "ita":"dare",
+            "eng":"to give"
+        },
+
+        "verb_13": {
+            "ita":"parlare",
+            "eng":"to speak"
+        },
+
+        "verb_14": {
+            "ita":"trovare",
+            "eng":"to find"
+        },
+
+        "verb_15": {
+            "ita":"sentire",
+            "eng":"to feel, to hear"
+        },
+
+        "verb_16": {
+            "ita":"lasciare",
+            "eng":"to leave"
+        },
+
+        "verb_17": {
+            "ita":"prendere",
+            "eng":"to take"
+        },
+
+        "verb_18": {
+            "ita":"guardare",
+            "eng":"to look"
+        },
+
+        "verb_19": {
+            "ita":"mettere",
+            "eng":"to put"
+        },
+
+        "verb_20": {
+            "ita":"pensare",
+            "eng":"to think"
+        },
+
+        "verb_21": {
+            "ita":"passare",
+            "eng":"to pass"
+        },
+
+        "verb_22": {
+            "ita":"credere",
+            "eng":"to believe"
+        },
+
+        "verb_23": {
+            "ita":"portare",
+            "eng":"to bring"
+        },
+
+        "verb_24": {
+            "ita":"parere",
+            "eng":"to seem"
+        },
+
+        "verb_25": {
+            "ita":"tornare",
+            "eng":"to return"
+        },
+
+        "verb_26": {
+            "ita":"sembrare",
+            "eng":"to seem, to look like"
+        },
+
+        "verb_27": {
+            "ita":"tenere",
+            "eng":"to keep"
+        },
+
+        "verb_28": {
+            "ita":"capire",
+            "eng":"to understand"
+        },
+
+        "verb_29": {
+            "ita":"morire",
+            "eng":"to die"
+        },
+
+        "verb_30": {
+            "ita":"chiamare",
+            "eng":"to call"
+        },
+
+        "verb_31": {
+            "ita":"conoscere",
+            "eng":"to know"
+        },
+
+        "verb_32": {
+            "ita":"rimanere",
+            "eng":"to stay"
+        },
+
+        "verb_33": {
+            "ita":"chiedere",
+            "eng":"to ask"
+        },
+
+        "verb_34": {
+            "ita":"cercare",
+            "eng":"to search for"
+        },
+
+        "verb_35": {
+            "ita":"entrare",
+            "eng":"to come in"
+        },
+
+        "verb_36": {
+            "ita":"vivere",
+            "eng":"to live"
+        },
+
+        "verb_37": {
+            "ita":"aprire",
+            "eng":"to open"
+        },
+
+        "verb_38": {
+            "ita":"uscire",
+            "eng":"to go out"
+        },
+
+        "verb_39": {
+            "ita":"ricordare",
+            "eng":"to remember"
+        },
+
+        "verb_40": {
+            "ita":"bisognare",
+            "eng":"need"
+        },
+
+        "verb_41": {
+            "ita":"cominciare",
+            "eng":"to begin"
+        },
+
+        "verb_42": {
+            "ita":"rispondere",
+            "eng":"to answer, to reply"
+        },
+
+        "verb_43": {
+            "ita":"aspettare",
+            "eng":"to wait"
+        },
+
+        "verb_44": {
+            "ita":"riuscire",
+            "eng":"to succeed"
+        },
+
+        "verb_45": {
+            "ita":"chiudere",
+            "eng":"to close"
+        },
+
+        "verb_46": {
+            "ita":"finire",
+            "eng":"to finish"
+        },
+
+        "verb_47": {
+            "ita":"arrivare",
+            "eng":"to arrive"
+        },
+
+        "verb_48": {
+            "ita":"scrivere",
+            "eng":"to write"
+        },
+
+        "verb_49": {
+            "ita":"diventare",
+            "eng":"to become"
+        },
+
+        "verb_50": {
+            "ita":"restare",
+            "eng":"to remain"
+        },
+
+        "verb_51": {
+            "ita":"seguire",
+            "eng":"to follow"
+        },
+
+        "verb_52": {
+            "ita":"bastare",
+            "eng":"to suffice"
+        },
+
+        "verb_53": {
+            "ita":"perdere",
+            "eng":"to lose"
+        },
+
+        "verb_54": {
+            "ita":"rendere",
+            "eng":"to make (big, small..)"
+        },
+
+        "verb_55": {
+            "ita":"correre",
+            "eng":"to run"
+        },
+
+        "verb_56": {
+            "ita":"salvare",
+            "eng":"to save"
+        },
+
+        "verb_57": {
+            "ita":"vestire",
+            "eng":"to dress"
+        },
+
+        "verb_58": {
+            "ita":"costruire",
+            "eng":"to build"
+        },
+
+        "verb_59": {
+            "ita":"camminare",
+            "eng":"to walk"
+        },
+
+        "verb_60": {
+            "ita":"ritrovare",
+            "eng":"to find again"
+        },
+
+        "verb_61": {
+            "ita":"durare",
+            "eng":"to last"
+        },
+
+        "verb_62": {
+            "ita":"accendere",
+            "eng":"to turn on"
+        },
+
+        "verb_63": {
+            "ita":"evitare",
+            "eng":"to avoid"
+        },
+
+        "verb_64": {
+            "ita":"immaginare",
+            "eng":"to imagine"
+        },
+
+        "verb_65": {
+            "ita":"ridurre",
+            "eng":"to reduce"
+        },
+
+        "verb_66": {
+            "ita":"contenere",
+            "eng":"to contain"
+        },
+
+        "verb_67": {
+            "ita":"fissare",
+            "eng":"to fix"
+        },
+
+        "verb_68": {
+            "ita":"costringere",
+            "eng":"to force"
+        },
+
+        "verb_69": {
+            "ita":"abbandonare",
+            "eng":"to abandon"
+        },
+
+        "verb_70": {
+            "ita":"attendere",
+            "eng":"to wait for"
+        },
+
+        "verb_71": {
+            "ita":"preferire",
+            "eng":"to prefer"
+        },
+
+        "verb_72": {
+            "ita":"scegliere",
+            "eng":"to choose"
+        },
+
+        "verb_73": {
+            "ita":"avvertire",
+            "eng":"to warn"
+        },
+
+        "verb_74": {
+            "ita":"proporre",
+            "eng":"to propose"
+        },
+
+        "verb_75": {
+            "ita":"temere",
+            "eng":"to fear"
+        },
+
+        "verb_76": {
+            "ita":"esprimere",
+            "eng":"to express"
+        },
+
+        "verb_77": {
+            "ita":"spingere",
+            "eng":"to push"
+        },
+
+        "verb_78": {
+            "ita":"salutare",
+            "eng":"to greet"
+        },
+
+        "verb_79": {
+            "ita":"udire",
+            "eng":"to hear"
+        },
+
+        "verb_80": {
+            "ita":"difendere",
+            "eng":"to stick up for"
+        },
+
+        "verb_81": {
+            "ita":"dirigere",
+            "eng":"to direct"
+        },
+
+        "verb_82": {
+            "ita":"cantare",
+            "eng":"to sing"
+        },
+
+        "verb_83": {
+            "ita":"sorgere",
+            "eng":"to rise"
+        },
+
+        "verb_84": {
+            "ita":"assicurare",
+            "eng":"to ensure"
+        },
+
+        "verb_85": {
+            "ita":"assumere",
+            "eng":"to hire"
+        },
+
+        "verb_86": {
+            "ita":"tendere",
+            "eng":"to tend"
+        },
+
+        "verb_87": {
+            "ita":"dividere",
+            "eng":"to divide"
+        },
+
+        "verb_88": {
+            "ita":"scusare",
+            "eng":"to excuse"
+        },
+
+        "verb_89": {
+            "ita":"mantenere",
+            "eng":"to maintain"
+        },
+
+        "verb_90": {
+            "ita":"ritenere",
+            "eng":"to consider"
+        },
+
+        "verb_91": {
+            "ita":"concludere",
+            "eng":"to conclude"
+        },
+
+        "verb_92": {
+            "ita":"saltare",
+            "eng":"to jump"
+        },
+
+        "verb_93": {
+            "ita":"stabilire",
+            "eng":"to establish"
+        },
+
+        "verb_94": {
+            "ita":"appartenere",
+            "eng":"to belong"
+        },
+
+        "verb_95": {
+            "ita":"possedere",
+            "eng":"to possess"
+        },
+
+        "verb_96": {
+            "ita":"risultare",
+            "eng":"to result"
+        },
+
+        "verb_97": {
+            "ita":"suonare",
+            "eng":"to play"
+        },
+
+        "verb_98": {
+            "ita":"coprire",
+            "eng":"to cover up"
+        },
+
+        "verb_99": {
+            "ita":"insegnare",
+            "eng":"to teach"
+        },
+
+        "verb_100": {
+            "ita":"affermare",
+            "eng":"to assert"
+        },
+
+        "verb_101": {
+            "ita":"rivelare",
+            "eng":"to reveal"
+        },
+
+        "verb_102": {
+            "ita":"conservare",
+            "eng":"to preserve"
+        },
+
+        "verb_103": {
+            "ita":"risolvere",
+            "eng":"to solve"
+        },
+
+        "verb_104": {
+            "ita":"concedere",
+            "eng":"to grant"
+        },
+
+        "verb_105": {
+            "ita":"limitare",
+            "eng":"to limit"
+        },
+
+        "verb_106": {
+            "ita":"abitare",
+            "eng":"to live"
+        },
+
+        "verb_107": {
+            "ita":"convincere",
+            "eng":"to convince"
+        },
+
+        "verb_108": {
+            "ita":"comprare",
+            "eng":"to buy"
+        },
+
+        "verb_109": {
+            "ita":"legare",
+            "eng":"to tie"
+        },
+
+        "verb_110": {
+            "ita":"sostenere",
+            "eng":"to sustain"
+        },
+
+        "verb_111": {
+            "ita":"nascere",
+            "eng":"to be born"
+        },
+
+        "verb_112": {
+            "ita":"presentare",
+            "eng":"to introduce"
+        },
+
+        "verb_113": {
+            "ita":"trattare",
+            "eng":"to deal"
+        },
+
+        "verb_114": {
+            "ita":"piacere",
+            "eng":"to like"
+        },
+
+        "verb_115": {
+            "ita":"continuare",
+            "eng":"to continue"
+        },
+
+        "verb_116": {
+            "ita":"partire",
+            "eng":"to leave"
+        },
+
+        "verb_117": {
+            "ita":"servire",
+            "eng":"to serve"
+        },
+
+        "verb_118": {
+            "ita":"giungere",
+            "eng":"to reach"
+        },
+
+        "verb_119": {
+            "ita":"fermare",
+            "eng":"to stop"
+        },
+
+        "verb_120": {
+            "ita":"apparire",
+            "eng":"to appear"
+        },
+
+        "verb_121": {
+            "ita":"amare",
+            "eng":"to love"
+        },
+
+        "verb_122": {
+            "ita":"esistere",
+            "eng":"to exist"
+        },
+
+        "verb_123": {
+            "ita":"intendere",
+            "eng":"to hear"
+        },
+
+        "verb_124": {
+            "ita":"salire",
+            "eng":"to go up"
+        },
+
+        "verb_125": {
+            "ita":"mancare",
+            "eng":"to miss"
+        },
+
+        "verb_126": {
+            "ita":"ridere",
+            "eng":"to laugh"
+        },
+
+        "verb_127": {
+            "ita":"lavorare",
+            "eng":"to work"
+        },
+
+        "verb_128": {
+            "ita":"alzare",
+            "eng":"to raise up"
+        },
+
+        "verb_129": {
+            "ita":"riconoscere",
+            "eng":"to recognize"
+        },
+
+        "verb_130": {
+            "ita":"sedere",
+            "eng":"to sit down"
+        },
+
+        "verb_131": {
+            "ita":"leggere",
+            "eng":"to read"
+        },
+
+        "verb_132": {
+            "ita":"cadere",
+            "eng":"to fall"
+        },
+
+        "verb_133": {
+            "ita":"mangiare",
+            "eng":"to eat"
+        },
+
+        "verb_134": {
+            "ita":"dormire",
+            "eng":"to sleep"
+        },
+
+        "verb_135": {
+            "ita":"raggiungere",
+            "eng":"to reach"
+        },
+
+        "verb_136": {
+            "ita":"comprendere",
+            "eng":"to understand"
+        },
+
+        "verb_137": {
+            "ita":"scendere",
+            "eng":"to alight"
+        },
+
+        "verb_138": {
+            "ita":"compiere",
+            "eng":"to fulfill"
+        },
+
+        "verb_139": {
+            "ita":"toccare",
+            "eng":"to touch"
+        },
+
+        "verb_140": {
+            "ita":"considerare",
+            "eng":"to consider"
+        },
+
+        "verb_141": {
+            "ita":"muovere",
+            "eng":"to move"
+        },
+
+        "verb_142": {
+            "ita":"stringere",
+            "eng":"to tighten"
+        },
+
+        "verb_143": {
+            "ita":"mandare",
+            "eng":"to send"
+        },
+
+        "verb_144": {
+            "ita":"domandare",
+            "eng":"to ask"
+        },
+
+        "verb_145": {
+            "ita":"ascoltare",
+            "eng":"to listen"
+        },
+
+        "verb_146": {
+            "ita":"decidere",
+            "eng":"to decide"
+        },
+
+        "verb_147": {
+            "ita":"ricevere",
+            "eng":"to receive"
+        },
+
+        "verb_148": {
+            "ita":"osservare",
+            "eng":"to observe"
+        },
+
+        "verb_149": {
+            "ita":"permettere",
+            "eng":"to allow"
+        },
+
+        "verb_150": {
+            "ita":"avvenire",
+            "eng":"to occur"
+        },
+
+        "verb_151": {
+            "ita":"spiegare",
+            "eng":"to explain"
+        },
+
+        "verb_152": {
+            "ita":"raccogliere",
+            "eng":"to collect"
+        },
+
+        "verb_153": {
+            "ita":"ottenere",
+            "eng":"to obtain"
+        },
+
+        "verb_154": {
+            "ita":"offrire",
+            "eng":"to offer"
+        },
+
+        "verb_155": {
+            "ita":"mostrare",
+            "eng":"to exhibit"
+        },
+
+        "verb_156": {
+            "ita":"accompagnare",
+             "eng":"to accompany"
+            },
+
+        "verb_157": {
+            "ita":"dimenticare",
+            "eng":"to forget"
+        },
+
+        "verb_158": {
+            "ita":"pregare",
+            "eng":"to pray"
+        },
+
+        "verb_159": {
+            "ita":"raccontare",
+            "eng":"to tell"
+        },
+
+        "verb_160": {
+            "ita":"bere",
+            "eng":"to drinking"
+        },
+
+        "verb_161": {
+            "ita":"ritornare",
+            "eng":"to return"
+        },
+
+        "verb_162": {
+            "ita":"cambiare",
+            "eng":"to change"
+        },
+
+        "verb_163": {
+            "ita":"dimostrare",
+            "eng":"to demonstrate"
+        },
+
+        "verb_164": {
+            "ita":"sperare",
+            "eng":"to hope"
+        },
+
+        "verb_165": {
+            "ita":"sposare",
+            "eng":"to marry"
+        },
+
+        "verb_166": {
+            "ita":"ammettere",
+            "eng":"to admit"
+        },
+
+        "verb_167": {
+            "ita":"fuggire",
+            "eng":"to run away"
+        },
+
+        "verb_168": {
+            "ita":"liberare",
+            "eng":"to free"
+        },
+
+        "verb_169": {
+            "ita":"riferire",
+            "eng":"to report"
+        },
+
+        "verb_170": {
+            "ita":"svegliare",
+            "eng":"to wake up"
+        },
+
+        "verb_171": {
+            "ita":"capitare",
+            "eng":"to happen"
+        },
+
+        "verb_172": {
+            "ita":"posare",
+            "eng":"to place"
+        },
+
+        "verb_173": {
+            "ita":"impedire",
+            "eng":"to prevent"
+        },
+
+        "verb_174": {
+            "ita":"gettare",
+            "eng":"to throw"
+        },
+
+        "verb_175": {
+            "ita":"vendere",
+            "eng":"to sell"
+        },
+
+        "verb_176": {
+            "ita":"distinguere",
+            "eng":"to distinguish"
+        },
+
+        "verb_177": {
+            "ita":"offendere",
+            "eng":"to offend"
+        },
+
+        "verb_178": {
+            "ita":"rimettere",
+            "eng":"to return"
+        },
+
+        "verb_179": {
+            "ita":"rompere",
+            "eng":"to break"
+        },
+
+        "verb_180": {
+            "ita":"godere",
+            "eng":"to enjoy"
+        },
+
+        "verb_181": {
+            "ita":"imporre",
+            "eng":"to impose"
+        },
+
+        "verb_182": {
+            "ita":"significare",
+            "eng":"to mean"
+        },
+
+        "verb_183": {
+            "ita":"desiderare",
+            "eng":"to desire"
+        },
+
+        "verb_184": {
+            "ita":"divertire",
+            "eng":"to amuse"
+        },
+
+        "verb_185": {
+            "ita":"volgere",
+            "eng":"to turn"
+        },
+
+        "verb_186": {
+            "ita":"giudicare",
+            "eng":"to judge"
+        },
+
+        "verb_187": {
+            "ita":"produrre",
+            "eng":"to produce"
+        },
+
+        "verb_188": {
+            "ita":"avvicinare",
+            "eng":"to approach"
+        },
+
+        "verb_189": {
+            "ita":"diffondere",
+            "eng":"to spread"
+        },
+
+        "verb_190": {
+            "ita":"ordinare",
+            "eng":"to sort"
+        },
+
+        "verb_191": {
+            "ita":"invitare",
+            "eng":"to invite"
+        },
+
+        "verb_192": {
+            "ita":"discutere",
+            "eng":"to discuss"
+        },
+
+        "verb_193": {
+            "ita":"sbagliare",
+            "eng":"to make a mistake"
+        },
+
+        "verb_194": {
+            "ita":"badare",
+            "eng":"to look after"
+        },
+
+        "verb_195": {
+            "ita":"tagliare",
+            "eng":"to cut"
+        },
+
+        "verb_196": {
+            "ita":"pubblicare",
+            "eng":"to publish"
+        },
+
+        "verb_197": {
+            "ita":"attaccare",
+            "eng":"to attack"
+        },
+
+        "verb_198": {
+            "ita":"imparare",
+            "eng":"to learn"
+        },
+
+        "verb_199": {
+            "ita":"prevedere",
+            "eng":"to forecast"
+        },
+
+        "verb_200": {
+            "ita":"scappare",
+            "eng":"to run away"
+        },
+
+        "verb_201": {
+            "ita":"spegnere",
+            "eng":"to switch off"
+        },
+
+        "verb_202": {
+            "ita":"annunciare",
+            "eng":"to announce"
+        },
+
+        "verb_203": {
+            "ita":"baciare",
+            "eng":"to kiss"
+        },
+
+        "verb_204": {
+            "ita":"esporre",
+            "eng":"to expose"
+        },
+
+        "verb_205": {
+            "ita":"attraversare",
+            "eng":"go across"
+        },
+
+        "verb_206": {
+            "ita":"fornire",
+            "eng":"to provide"
+        },
+
+        "verb_207": {
+            "ita":"segnare",
+            "eng":"to mark"
+        },
+
+        "verb_208": {
+            "ita":"superare",
+            "eng":"to overcome"
+        },
+
+        "verb_209": {
+            "ita":"rivedere",
+            "eng":"to review"
+        },
+
+        "verb_210": {
+            "ita":"allontanare",
+            "eng":"to remove"
+        },
+
+        "verb_211": {
+            "ita":"ammazzare",
+            "eng":"to kill"
+        },
+
+        "verb_212": {
+            "ita":"accogliere",
+            "eng":"to receive"
+        },
+
+        "verb_213": {
+            "ita":"voltare",
+            "eng":"to turn"
+        },
+
+        "verb_214": {
+            "ita":"preoccupare",
+            "eng":"to worry"
+        },
+
+        "verb_215": {
+            "ita":"provocare",
+            "eng":"to cause"
+        },
+
+        "verb_216": {
+            "ita":"riempire",
+            "eng":"to fill"
+        },
+
+        "verb_217": {
+            "ita":"partecipare",
+            "eng":"to take part"
+        },
+
+        "verb_218": {
+            "ita":"piantare",
+            "eng":"to plant"
+        },
+
+        "verb_219": {
+            "ita":"rientrare",
+            "eng":"to re-enter"
+        },
+
+        "verb_220": {
+            "ita":"richiedere",
+            "eng":"to request"
+        },
+
+        "verb_221": {
+            "ita":"nascondere",
+            "eng":"to hide"
+        },
+
+        "verb_222": {
+            "ita":"ripetere",
+            "eng":"to repeat"
+        },
+
+        "verb_223": {
+            "ita":"scoprire",
+            "eng":"to discover"
+        },
+
+        "verb_224": {
+            "ita":"preparare",
+            "eng":"prepare"
+        },
+
+        "verb_225": {
+            "ita":"scorrere",
+            "eng":"to slide"
+        },
+
+        "verb_226": {
+            "ita":"rappresentare",
+            "eng":"to represent"
+        },
+
+        "verb_227": {
+            "ita":"riprendere",
+            "eng":"to resume"
+        },
+
+        "verb_228": {
+            "ita":"costituire",
+            "eng":"to constitute"
+        },
+
+        "verb_229": {
+            "ita":"incontrare",
+            "eng":"to meet"
+        },
+
+        "verb_230": {
+            "ita":"valere",
+            "eng":"be worth"
+        },
+
+        "verb_231": {
+            "ita":"accorgersi",
+            "eng":"to notice"
+        },
+
+        "verb_232": {
+            "ita":"provare",
+            "eng":"to try"
+        },
+
+        "verb_233": {
+            "ita":"formare",
+            "eng":"to form"
+        },
+
+        "verb_234": {
+            "ita":"uccidere",
+            "eng":"to kill"
+        },
+
+        "verb_235": {
+            "ita":"tirare",
+            "eng":"to pull"
+        },
+
+        "verb_236": {
+            "ita":"togliere",
+            "eng":"to remove"
+        },
+
+        "verb_237": {
+            "ita":"notare",
+            "eng":"to notice"
+        },
+
+        "verb_238": {
+            "ita":"aggiungere",
+            "eng":"to add"
+        },
+
+        "verb_239": {
+            "ita":"succedere",
+            "eng":"to happen"
+        },
+
+        "verb_240": {
+            "ita":"pagare",
+            "eng":"to pay"
+        },
+
+        "verb_241": {
+            "ita":"tentare",
+            "eng":"to attempt"
+        },
+
+        "verb_242": {
+            "ita":"accadere",
+            "eng":"to happen"
+        },
+
+        "verb_243": {
+            "ita":"creare",
+            "eng":"to create"
+        },
+
+        "verb_244": {
+            "ita":"importare",
+            "eng":"to import"
+        },
+
+        "verb_245": {
+            "ita":"pesare",
+            "eng":"to weigh"
+        },
+
+        "verb_246": {
+            "ita":"usare",
+            "eng":"to use"
+        },
+
+        "verb_247": {
+            "ita":"accettare",
+            "eng":"to accept"
+        },
+
+        "verb_248": {
+            "ita":"indicare",
+            "eng":"to indicate"
+        },
+
+        "verb_249": {
+            "ita":"buttare",
+            "eng":"to throw"
+        },
+
+        "verb_250": {
+            "ita":"battere",
+            "eng":"to beat"
+        },
+
+        "verb_251": {
+            "ita":"interessare",
+            "eng":"to interest"
+        },
+
+        "verb_252": {
+            "ita":"sorridere",
+            "eng":"to smile"
+        },
+
+        "verb_253": {
+            "ita":"condurre",
+            "eng":"to conduct"
+        },
+
+        "verb_254": {
+            "ita":"disporre",
+            "eng":"to have"
+        },
+
+        "verb_255": {
+            "ita":"unire",
+            "eng":"to merge"
+        },
+
+        "verb_256": {
+            "ita":"aiutare",
+            "eng":"to help"
+        },
+
+        "verb_257": {
+            "ita":"piangere",
+            "eng":"to cry"
+        },
+
+        "verb_258": {
+            "ita":"girare",
+            "eng":"to turn"
+        },
+
+        "verb_259": {
+            "ita":"levare",
+            "eng":"to lift"
+        },
+
+        "verb_260": {
+            "ita":"soffrire",
+            "eng":"to suffer"
+        },
+
+        "verb_261": {
+            "ita":"recare",
+            "eng":"to cause"
+        },
+
+        "verb_262": {
+            "ita":"riguardare",
+            "eng":"to concern"
+        },
+
+        "verb_263": {
+            "ita":"rivolgere",
+            "eng":"to turn"
+        },
+
+        "verb_264": {
+            "ita":"tacere",
+            "eng":"to be silent"
+        },
+
+        "verb_265": {
+            "ita":"occorrere",
+            "eng":"to take"
+        },
+
+        "verb_266": {
+            "ita":"porre",
+            "eng":"to place"
+        },
+
+        "verb_267": {
+            "ita":"vincere",
+            "eng":"to win"
+        },
+
+        "verb_268": {
+            "ita":"svolgere",
+            "eng":"to perform"
+        },
+
+        "verb_269": {
+            "ita":"studiare",
+            "eng":"to study"
+        },
+
+        "verb_270": {
+            "ita":"crescere",
+            "eng":"to grow up"
+        },
+
+        "verb_271": {
+            "ita":"divenire",
+            "eng":"to become"
+        },
+
+        "verb_272": {
+            "ita":"gridare",
+            "eng":"to shout"
+        },
+
+        "verb_273": {
+            "ita":"dichiarare",
+            "eng":"to declare"
+        },
+
+        "verb_274": {
+            "ita":"contare",
+            "eng":"to count"
+        },
+
+        "verb_275": {
+            "ita":"giocare",
+            "eng":"to play"
+        },
+
+        "verb_276": {
+            "ita":"assistere",
+            "eng":"to assist"
+        },
+
+        "verb_277": {
+            "ita":"aumentare",
+            "eng":"to increase"
+        },
+
+        "verb_278": {
+            "ita":"lanciare",
+            "eng":"to launch"
+        },
+
+        "verb_279": {
+            "ita":"determinare",
+            "eng":"to determine"
+        },
+
+        "verb_280": {
+            "ita":"scherzare",
+            "eng":"to joke"
+        },
+
+        "verb_281": {
+            "ita":"elevare",
+            "eng":"to raise"
+        },
+
+        "verb_282": {
+            "ita":"promettere",
+            "eng":"to promise"
+        },
+
+        "verb_283": {
+            "ita":"scomparire",
+            "eng":"to disappear"
+        },
+
+        "verb_284": {
+            "ita":"trarre",
+            "eng":"to draw"
+        },
+
+        "verb_285": {
+            "ita":"distruggere",
+            "eng":"to destroy"
+        },
+
+        "verb_286": {
+            "ita":"meritare",
+            "eng":"to deserve"
+        },
+
+        "verb_287": {
+            "ita":"dedicare",
+            "eng":"to devote"
+        },
+
+        "verb_288": {
+            "ita":"iniziare",
+            "eng":"to start"
+        },
+
+        "verb_289": {
+            "ita":"sorprendere",
+            "eng":"to surprise"
+        },
+
+        "verb_290": {
+            "ita":"trasformare",
+            "eng":"to commute"
+        },
+
+        "verb_291": {
+            "ita":"confessare",
+            "eng":"to confess"
+        },
+
+        "verb_292": {
+            "ita":"arrestare",
+            "eng":"to stop"
+        },
+
+        "verb_293": {
+            "ita":"ringraziare",
+            "eng":"to thank"
+        },
+
+        "verb_294": {
+            "ita":"riunire",
+            "eng":"to gather"
+        },
+
+        "verb_295": {
+            "ita":"volare",
+            "eng":"to fly"
+        },
+
+        "verb_296": {
+            "ita":"fondare",
+            "eng":"to found"
+        },
+
+        "verb_297": {
+            "ita":"guidare",
+            "eng":"to drive"
+        },
+
+        "verb_298": {
+            "ita":"ferire",
+            "eng":"to hurt"
+        },
+
+        "verb_299": {
+            "ita":"opporre",
+            "eng":"to oppose"
+        },
+
+        "verb_300": {
+            "ita":"procedere",
+            "eng":"to proceed"
+        },
+
+        "verb_301": {
+            "ita":"smettere",
+            "eng":"to stop"
+        },
+
+        "verb_302": {
+            "ita":"consentire",
+            "eng":"to allow"
+        },
+
+        "verb_303": {
+            "ita":"innamorarsi",
+            "eng":"to fall in love"
+        },
+
+        "verb_304": {
+            "ita":"organizzare",
+            "eng":"to organize"
+        },
+
+        "verb_305": {
+            "ita":"rifiutare",
+            "eng":"to reject"
+        },
+
+        "verb_306": {
+            "ita":"riportare",
+            "eng":"to report"
+        },
+
+        "verb_307": {
+            "ita":"dipendere",
+            "eng":"to depend"
+        },
+
+        "verb_308": {
+            "ita":"provvedere",
+            "eng":"to provide"
+        },
+
+        "verb_309": {
+            "ita":"trascinare",
+            "eng":"to drag"
+        },
+
+        "verb_310": {
+            "ita":"fumare",
+            "eng":"to smoke"
+        },
+
+        "verb_311": {
+            "ita":"scoppiare",
+            "eng":"to burst"
+        },
+
+        "verb_312": {
+            "ita":"sognare",
+            "eng":"to dream"
+        },
+
+        "verb_313": {
+            "ita":"appoggiare",
+            "eng":"to support"
+        },
+
+        "verb_314": {
+            "ita":"armare",
+            "eng":"to arm"
+        },
+
+        "verb_315": {
+            "ita":"celebrare",
+            "eng":"to celebrate"
+        },
+
+        "verb_316": {
+            "ita":"descrivere",
+            "eng":"to describe"
+        },
+
+        "verb_317": {
+            "ita":"resistere",
+            "eng":"to resist"
+        },
+
+        "verb_318": {
+            "ita":"bruciare",
+            "eng":"to burn"
+        },
+
+        "verb_319": {
+            "ita":"colpire",
+            "eng":"to hit"
+        },
+
+        "verb_320": {
+            "ita":"estendere",
+            "eng":"to extend"
+        },
+
+        "verb_321": {
+            "ita":"staccare",
+            "eng":"to remove"
+        },
+
+        "verb_322": {
+            "ita":"affrontare",
+            "eng":"to face up to"
+        },
+
+        "verb_323": {
+            "ita":"avanzare",
+            "eng":"to push forward"
+        },
+
+        "verb_324": {
+            "ita":"comporre",
+            "eng":"to compose"
+        },
+
+        "verb_325": {
+            "ita":"escludere",
+            "eng":"to exclude"
+        },
+
+        "verb_326": {
+            "ita":"figurare",
+            "eng":"to appear"
+        },
+
+        "verb_327": {
+            "ita":"insistere",
+            "eng":"to insist"
+        }
+
+    }
+}
