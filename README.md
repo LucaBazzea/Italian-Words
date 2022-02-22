@@ -1,5 +1,5 @@
 # Italian-Words
-A collection of 1000 common Italian words
+## A collection of 1000 common Italian words.
 
 Nouns:<br/>
 https://lucabazzea.github.io/Italian-Words/data/nouns.json
