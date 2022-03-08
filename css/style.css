@@ -1,0 +1,25 @@
+body {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: #668aaa;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.flag {
+    size: 1px;
+    margin: 1%;
+    max-width: 150px;
+}
+
+.heading {
+    text-align: center;
+    font-size: 40px;
+}
+
+.data {
+    text-align: center;
+    margin-top: 4%;
+}
