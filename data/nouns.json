@@ -1,1909 +1,1909 @@
 {
-    "nouns": {
+    "nouns": [
         
-        "noun_1": {
+		{
             "ita":"giardino",
             "eng":"garden"
         },
 
-        "noun_2": {
+		{
             "ita":"attività",
             "eng":"activities"
         },
 
-        "noun_3": {
+		{
             "ita":"volontà",
             "eng":"will"
         },
 
-        "noun_4": {
+		{
             "ita":"volto",
             "eng":"face"
         },
 
-        "noun_5": {
+		{
             "ita":"base",
             "eng":"basis"
         },
 
-        "noun_6": {
+		{
             "ita":"carattere",
             "eng":"character"
         },
 
-        "noun_7": {
+		{
             "ita":"coscienza",
             "eng":"consciousness"
         },
 
-        "noun_8": {
+		{
             "ita":"guardia",
             "eng":"guard"
         },
 
-        "noun_9": {
+		{
             "ita":"memoria",
             "eng":"memory"
         },
 
-        "noun_10": {
+		{
             "ita":"terreno",
             "eng":"ground"
         },
 
-        "noun_11": {
+		{
             "ita":"animale",
             "eng":"animal"
         },
 
-        "noun_12": {
+		{
             "ita":"direzione",
             "eng":"direction"
         },
 
-        "noun_13": {
+		{
             "ita":"eccellenza",
             "eng":"excellence"
         },
 
-        "noun_14": {
+		{
             "ita":"malattia",
             "eng":"disease"
         },
 
-        "noun_15": {
+		{
             "ita":"scienza",
             "eng":"science"
         },
 
-        "noun_16": {
+		{
             "ita":"funzione",
             "eng":"function"
         },
 
-        "noun_17": {
+		{
             "ita":"conseguenza",
             "eng":"result"
         },
 
-        "noun_18": {
+		{
             "ita":"parete",
             "eng":"wall"
         },
 
-        "noun_19": {
+		{
             "ita":"dente",
             "eng":"tooth"
         },
 
-        "noun_20": {
+		{
             "ita":"distanza",
             "eng":"distance"
         },
 
-        "noun_21": {
+		{
             "ita":"gusto",
             "eng":"taste"
         },
 
-        "noun_22": {
+		{
             "ita":"impressione",
             "eng":"impression"
         },
 
-        "noun_23": {
+		{
             "ita":"istituto",
             "eng":"institute"
         },
 
-        "noun_24": {
+		{
             "ita":"quadro",
             "eng":"painting"
         },
 
-        "noun_25": {
+		{
             "ita":"attenzione",
             "eng":"attention"
         },
 
-        "noun_26": {
+		{
             "ita":"autore",
             "eng":"author"
         },
 
-        "noun_27": {
+		{
             "ita":"difficoltà",
             "eng":"difficulty"
         },
 
-        "noun_28": {
+		{
             "ita":"passione",
             "eng":"passion"
         },
 
-        "noun_29": {
+		{
             "ita":"commissione",
             "eng":"commission"
         },
 
-        "noun_30": {
+		{
             "ita":"dito",
             "eng":"finger"
         },
 
-        "noun_31": {
+		{
             "ita":"inizio",
             "eng":"Start"
         },
 
-        "noun_32": {
+		{
             "ita":"programma",
             "eng":"program"
         },
 
-        "noun_33": {
+		{
             "ita":"spettacolo",
             "eng":"show"
         },
 
-        "noun_34": {
+		{
             "ita":"titolo",
             "eng":"title"
         },
 
-        "noun_35": {
+		{
             "ita":"comunicazione",
             "eng":"communication"
         },
 
-        "noun_36": {
+		{
             "ita":"fenomeno",
             "eng":"phenomenon"
         },
 
-        "noun_37": {
+		{
             "ita":"maggio",
             "eng":"May"
         },
 
-        "noun_38": {
+		{
             "ita":"stampa",
             "eng":"press"
         },
 
-        "noun_39": {
+		{
             "ita":"denaro",
             "eng":"money"
         },
 
-        "noun_40": {
+		{
             "ita":"destino",
             "eng":"destiny"
         },
 
-        "noun_41": {
+		{
             "ita":"dovere",
             "eng":"duty"
         },
 
-        "noun_42": {
+		{
             "ita":"ferro",
             "eng":"iron"
         },
 
-        "noun_43": {
+		{
             "ita":"punta",
             "eng":"tip"
         },
 
-        "noun_44": {
+		{
             "ita":"regno",
             "eng":"kingdom"
         },
 
-        "noun_45": {
+		{
             "ita":"epoca",
             "eng":"era"
         },
 
-        "noun_46": {
+		{
             "ita":"luna",
             "eng":"moon"
         },
 
-        "noun_47": {
+		{
             "ita":"provincia",
             "eng":"province"
         },
 
-        "noun_48": {
+		{
             "ita":"voglia",
             "eng":"wish"
         },
 
-        "noun_49": {
+		{
             "ita":"differenza",
             "eng":"difference"
         },
 
-        "noun_50": {
+		{
             "ita":"controllo",
             "eng":"control"
         },
 
-        "noun_51": {
+		{
             "ita":"grazia",
             "eng":"grace"
         },
 
-        "noun_52": {
+		{
             "ita":"passato",
             "eng":"past"
         },
 
-        "noun_53": {
+		{
             "ita":"spazio",
             "eng":"space"
         },
 
-        "noun_54": {
+		{
             "ita":"stella",
             "eng":"star"
         },
 
-        "noun_55": {
+		{
             "ita":"corsa",
             "eng":"race"
         },
 
-        "noun_56": {
+		{
             "ita":"erba",
             "eng":"grass"
         },
 
-        "noun_57": {
+		{
             "ita":"massa",
             "eng":"mass"
         },
 
-        "noun_58": {
+		{
             "ita":"origine",
             "eng":"origin"
         },
 
-        "noun_59": {
+		{
             "ita":"polizia",
             "eng":"police"
         },
 
-        "noun_60": {
+		{
             "ita":"soluzione",
             "eng":"solution"
         },
 
-        "noun_61": {
+		{
             "ita":"chilometro",
             "eng":"kilometer"
         },
 
-        "noun_62": {
+		{
             "ita":"madre",
             "eng":"mother"
         },
 
-        "noun_63": {
+		{
             "ita":"paura",
             "eng":"fear"
         },
 
-        "noun_64": {
+		{
             "ita":"cuore",
             "eng":"heart"
         },
 
-        "noun_65": {
+		{
             "ita":"idea",
             "eng":"idea"
         },
 
-        "noun_66": {
+		{
             "ita":"fondo",
             "eng":"background"
         },
 
-        "noun_67": {
+		{
             "ita":"esempio",
             "eng":"example"
         },
 
-        "noun_68": {
+		{
             "ita":"ordine",
             "eng":"order"
         },
 
-        "noun_69": {
+		{
             "ita":"posto",
             "eng":"place"
         },
 
-        "noun_70": {
+		{
             "ita":"campo",
             "eng":"field"
         },
 
-        "noun_71": {
+		{
             "ita":"faccia",
             "eng":"face"
         },
 
-        "noun_72": {
+		{
             "ita":"moglie",
             "eng":"wife"
         },
 
-        "noun_73": {
+		{
             "ita":"ragazzo",
             "eng":"boy"
         },
 
-        "noun_74": {
+		{
             "ita":"bisogno",
             "eng":"need"
         },
 
-        "noun_75": {
+		{
             "ita":"cielo",
             "eng":"sky"
         },
 
-        "noun_76": {
+		{
             "ita":"letto",
             "eng":"bed"
         },
 
-        "noun_77": {
+		{
             "ita":"fronte",
             "eng":"front"
         },
 
-        "noun_78": {
+		{
             "ita":"conto",
             "eng":"bill"
         },
 
-        "noun_79": {
+		{
             "ita":"corpo",
             "eng":"body"
         },
 
-        "noun_80": {
+		{
             "ita":"numero",
             "eng":"number"
         },
 
-        "noun_81": {
+		{
             "ita":"ministro",
             "eng":"minister"
         },
 
-        "noun_82": {
+		{
             "ita":"problema",
             "eng":"problem"
         },
 
-        "noun_83": {
+		{
             "ita":"chiesa",
             "eng":"church"
         },
 
-        "noun_84": {
+		{
             "ita":"braccio",
             "eng":"arm"
         },
 
-        "noun_85": {
+		{
             "ita":"bambino",
             "eng":"child"
         },
 
-        "noun_86": {
+		{
             "ita":"pensiero",
             "eng":"thought"
         },
 
-        "noun_87": {
+		{
             "ita":"pace",
             "eng":"peace"
         },
 
-        "noun_88": {
+		{
             "ita":"morte",
             "eng":"death"
         },
 
-        "noun_89": {
+		{
             "ita":"fine",
             "eng":"end"
         },
 
-        "noun_90": {
+		{
             "ita":"forma",
             "eng":"form"
         },
 
-        "noun_91": {
+		{
             "ita":"resto",
             "eng":"rest"
         },
 
-        "noun_92": {
+		{
             "ita":"popolo",
             "eng":"people"
         },
 
-        "noun_93": {
+		{
             "ita":"società",
             "eng":"society"
         },
 
-        "noun_94": {
+		{
             "ita":"studio",
             "eng":"study"
         },
 
-        "noun_95": {
+		{
             "ita":"legge",
             "eng":"law"
         },
 
-        "noun_96": {
+		{
             "ita":"libro",
             "eng":"book"
         },
 
-        "noun_97": {
+		{
             "ita":"figlia",
             "eng":"daughter"
         },
 
-        "noun_98": {
+		{
             "ita":"resto",
             "eng":"rest"
         },
 
-        "noun_99": {
+		{
             "ita":"luogo",
             "eng":"place"
         },
 
-        "noun_100": {
+		{
             "ita":"condizione",
             "eng":"condition"
         },
 
-        "noun_101": {
+		{
             "ita":"professore",
             "eng":"teacher"
         },
 
-        "noun_102": {
+		{
             "ita":"marito",
             "eng":"husband"
         },
 
-        "noun_103": {
+		{
             "ita":"verità",
             "eng":"truth"
         },
 
-        "noun_104": {
+		{
             "ita":"segno",
             "eng":"sign"
         },
 
-        "noun_105": {
+		{
             "ita":"diritto",
             "eng":"right"
         },
 
-        "noun_106": {
+		{
             "ita":"lettera",
             "eng":"letter"
         },
 
-        "noun_107": {
+		{
             "ita":"ragazza",
             "eng":"girl"
         },
 
-        "noun_108": {
+		{
             "ita":"scuola",
             "eng":"school"
         },
 
-        "noun_109": {
+		{
             "ita":"camera",
             "eng":"room"
         },
 
-        "noun_110": {
+		{
             "ita":"gruppo",
             "eng":"group"
         },
 
-        "noun_111": {
+		{
             "ita":"discorso",
             "eng":"speech"
         },
 
-        "noun_112": {
+		{
             "ita":"centro",
             "eng":"center"
         },
 
-        "noun_113": {
+		{
             "ita":"secolo",
             "eng":"century"
         },
 
-        "noun_114": {
+		{
             "ita":"mezzo",
             "eng":"half"
         },
 
-        "noun_115": {
+		{
             "ita":"tipo",
             "eng":"guy"
         },
 
-        "noun_116": {
+		{
             "ita":"colpa",
             "eng":"fault"
         },
 
-        "noun_117": {
+		{
             "ita":"rispetto",
             "eng":"respect"
         },
 
-        "noun_118": {
+		{
             "ita":"scena",
             "eng":"scene"
         },
 
-        "noun_119": {
+		{
             "ita":"oggetto",
             "eng":"object"
         },
 
-        "noun_120": {
+		{
             "ita":"possibilità",
             "eng":"possibility"
         },
 
-        "noun_121": {
+		{
             "ita":"mamma",
             "eng":"mom"
         },
 
-        "noun_122": {
+		{
             "ita":"presenza",
             "eng":"presence"
         },
 
-        "noun_123": {
+		{
             "ita":"teatro",
             "eng":"theater"
         },
 
-        "noun_124": {
+		{
             "ita":"caffè",
             "eng":"coffee"
         },
 
-        "noun_125": {
+		{
             "ita":"principio",
             "eng":"principle"
         },
 
-        "noun_126": {
+		{
             "ita":"termine",
             "eng":"term"
         },
 
-        "noun_127": {
+		{
             "ita":"lingua",
             "eng":"tongue"
         },
 
-        "noun_128": {
+		{
             "ita":"pezzo",
             "eng":"piece"
         },
 
-        "noun_129": {
+		{
             "ita":"capello",
             "eng":"hair"
         },
 
-        "noun_130": {
+		{
             "ita":"regione",
             "eng":"region"
         },
 
-        "noun_131": {
+		{
             "ita":"monte",
             "eng":"Mountain"
         },
 
-        "noun_132": {
+		{
             "ita":"università",
             "eng":"university"
         },
 
-        "noun_133": {
+		{
             "ita":"treno",
             "eng":"train"
         },
 
-        "noun_134": {
+		{
             "ita":"inverno",
             "eng":"winter"
         },
 
-        "noun_135": {
+		{
             "ita":"nazione",
             "eng":"nation"
         },
 
-        "noun_136": {
+		{
             "ita":"pagina",
             "eng":"page"
         },
 
-        "noun_137": {
+		{
             "ita":"scopo",
             "eng":"purpose"
         },
 
-        "noun_138": {
+		{
             "ita":"compagno",
             "eng":"partner"
         },
 
-        "noun_139": {
+		{
             "ita":"necessità",
             "eng":"need"
         },
 
-        "noun_140": {
+		{
             "ita":"potere",
             "eng":"power"
         },
 
-        "noun_141": {
+		{
             "ita":"musica",
             "eng":"music"
         },
 
-        "noun_142": {
+		{
             "ita":"dottore",
             "eng":"doctor"
         },
 
-        "noun_143": {
+		{
             "ita":"sentimento",
             "eng":"feeling"
         },
 
-        "noun_144": {
+		{
             "ita":"nave",
             "eng":"ship"
         },
 
-        "noun_145": {
+		{
             "ita":"pietra",
             "eng":"Stone"
         },
 
-        "noun_146": {
+		{
             "ita":"produzione",
             "eng":"production"
         },
 
-        "noun_147": {
+		{
             "ita":"speranza",
             "eng":"hope"
         },
 
-        "noun_148": {
+		{
             "ita":"dolore",
             "eng":"ache"
         },
 
-        "noun_149": {
+		{
             "ita":"carne",
             "eng":"meat"
         },
 
-        "noun_150": {
+		{
             "ita":"generale",
             "eng":"general"
         },
 
-        "noun_151": {
+		{
             "ita":"proposito",
             "eng":"purpose"
         },
 
-        "noun_152": {
+		{
             "ita":"elemento",
             "eng":"element"
         },
 
-        "noun_153": { 
+		{ 
         "ita":"stazione",
         "eng":"railway station"
         },
 
-        "noun_154": {
+		{
             "ita":"materia",
             "eng":"matter"
         },
 
-        "noun_155": {
+		{
             "ita":"scala",
             "eng":"ladder"
         },
 
-        "noun_156": {
+		{
             "ita":"maniera",
             "eng":"way"
         },
 
-        "noun_157": {
+		{
             "ita":"arma",
             "eng":"weapon"
         },
 
-        "noun_158": {
+		{
             "ita":"autorità",
             "eng":"authority"
         },
 
-        "noun_159": {
+		{
             "ita":"gamba",
             "eng":"leg"
         },
 
-        "noun_160": {
+		{
             "ita":"patria",
             "eng":"homeland"
         },
 
-        "noun_161": {
+		{
             "ita":"albergo",
             "eng":"hotel"
         },
 
-        "noun_162": {
+		{
             "ita":"gioia",
             "eng":"joy"
         },
 
-        "noun_163": {
+		{
             "ita":"argomento",
             "eng":"topic"
         },
 
-        "noun_164": {
+		{
             "ita":"sguardo",
             "eng":"look"
         },
 
-        "noun_165": {
+		{
             "ita":"relazione",
             "eng":"report"
         },
 
-        "noun_166": {
+		{
             "ita":"classe",
             "eng":"class"
         },
 
-        "noun_167": {
+		{
             "ita":"battaglia",
             "eng":"battle"
         },
 
-        "noun_168": {
+		{
             "ita":"viso",
             "eng":"face"
         },
 
-        "noun_169": {
+		{
             "ita":"gesto",
             "eng":"gesture"
         },
 
-        "noun_170": {
+		{
             "ita":"mattino",
             "eng":"morning"
         },
 
-        "noun_171": {
+		{
             "ita":"opinione",
             "eng":"opinion"
         },
 
-        "noun_172": {
+		{
             "ita":"ponte",
             "eng":"bridge"
         },
 
-        "noun_173": {
+		{
             "ita":"sorriso",
             "eng":"smile"
         },
 
-        "noun_174": {
+		{
             "ita":"frase",
             "eng":"phrase"
         },
 
-        "noun_175": {
+		{
             "ita":"limite",
             "eng":"limit"
         },
 
-        "noun_176": {
+		{
             "ita":"ritorno",
             "eng":"return"
         },
 
-        "noun_177": {
+		{
             "ita":"bosco",
             "eng":"wood"
         },
 
-        "noun_178": {
+		{
             "ita":"esame",
             "eng":"exam"
         },
 
-        "noun_179": {
+		{
             "ita":"lato",
             "eng":"side"
         },
 
-        "noun_180": {
+		{
             "ita":"operazione",
             "eng":"operation"
         },
 
-        "noun_181": {
+		{
             "ita":"pranzo",
             "eng":"lunch"
         },
 
-        "noun_182": { 
+		{ 
             "ita":"costa",
             "eng":"it costs"
         },
 
-        "noun_183": {
+		{
             "ita":"prato",
             "eng":"meadow"
         },
 
-        "noun_184": {
+		{
             "ita":"repubblica",
             "eng":"republic"
         },
 
-        "noun_185": {
+		{
             "ita":"valle",
             "eng":"Valley"
         },
 
-        "noun_186": {
+		{
             "ita":"nord",
             "eng":"north"
         },
 
-        "noun_187": {
+		{
             "ita":"fatica",
             "eng":"fatigue"
         },
 
-        "noun_188": {
+		{
             "ita":"odore",
             "eng":"smell"
         },
 
-        "noun_189": {
+		{
             "ita":"articolo",
             "eng":"article"
         },
 
-        "noun_190": {
+		{
             "ita":"costruzione",
             "eng":"construction"
         },
 
-        "noun_191": {
+		{
             "ita":"rivoluzione",
             "eng":"Revolution"
         },
 
-        "noun_192": {
+		{
             "ita":"zia",
             "eng":"aunt"
         },
 
-        "noun_193": {
+		{
             "ita":"confronto",
             "eng":"comparison"
         },
 
-        "noun_194": {
+		{
             "ita":"potenza",
             "eng":"power"
         },
 
-        "noun_195": {
+		{
             "ita":"sforzo",
             "eng":"effort"
         },
 
-        "noun_196": {
+		{
             "ita":"sicurezza",
             "eng":"safety"
         },
 
-        "noun_197": {
+		{
             "ita":"ufficiale",
             "eng":"official"
         },
 
-        "noun_198": {
+		{
             "ita":"crisi",
             "eng":"crisis"
         },
 
-        "noun_199": {
+		{
             "ita":"cucina",
             "eng":"kitchen"
         },
 
-        "noun_200": {
+		{
             "ita":"gatto",
             "eng":"cat"
         },
 
-        "noun_201": {
+		{
             "ita":"pietà",
             "eng":"pity"
         },
 
-        "noun_202": {
+		{
             "ita":"territorio",
             "eng":"territory"
         },
 
-        "noun_203": {
+		{
             "ita":"attimo",
             "eng":"moment"
         },
 
-        "noun_204": {
+		{
             "ita":"civiltà",
             "eng":"civilization"
         },
 
-        "noun_205": {
+		{
             "ita":"contatto",
             "eng":"contact"
         },
 
-        "noun_206": {
+		{
             "ita":"errore",
             "eng":"error"
         },
 
-        "noun_207": {
+		{
             "ita":"fretta",
             "eng":"hurry"
         },
 
-        "noun_208": {
+		{
             "ita":"intenzione",
             "eng":"intention"
         },
 
-        "noun_209": {
+		{
             "ita":"cultura",
             "eng":"culture"
         },
 
-        "noun_210": {
+		{
             "ita":"giudizio",
             "eng":"judgement"
         },
 
-        "noun_211": {
+		{
             "ita":"spesa",
             "eng":"expense"
         },
 
-        "noun_212": {
+		{
             "ita":"aiuto",
             "eng":"Help"
         },
 
-        "noun_213": {
+		{
             "ita":"ambiente",
             "eng":"environment"
         },
 
-        "noun_214": {
+		{
             "ita":"animo",
             "eng":"mind"
         },
 
-        "noun_215": {
+		{
             "ita":"bestia",
             "eng":"beast"
         },
 
-        "noun_216": {
+		{
             "ita":"cortile",
             "eng":"courtyard"
         },
 
-        "noun_217": {
+		{
             "ita":"pelle",
             "eng":"skin"
         },
 
-        "noun_218": {
+		{
             "ita":"proposta",
             "eng":"proposal"
         },
 
-        "noun_219": {
+		{
             "ita":"riva",
             "eng":"shore"
         },
 
-        "noun_220": {
+		{
             "ita":"segretario",
             "eng":"secretary"
         },
 
-        "noun_221": {
+		{
             "ita":"abito",
             "eng":"dress"
         },
 
-        "noun_222": {
+		{
             "ita":"chiave",
             "eng":"key"
         },
 
-        "noun_223": {
+		{
             "ita":"corrente",
             "eng":"current"
         },
 
-        "noun_224": {
+		{
             "ita":"operaio",
             "eng":"worker"
         },
 
-        "noun_225": {
+		{
             "ita":"corso",
             "eng":"course"
         },
 
-        "noun_226": {
+		{
             "ita":"finestra",
             "eng":"window"
         },
 
-        "noun_227": {
+		{
             "ita":"arte",
             "eng":"art"
         },
 
-        "noun_228": {
+		{
             "ita":"sistema",
             "eng":"system"
         },
 
-        "noun_229": {
+		{
             "ita":"piano",
             "eng":"plan"
         },
 
-        "noun_230": {
+		{
             "ita":"bocca",
             "eng":"mouth"
         },
 
-        "noun_231": {
+		{
             "ita":"anima",
             "eng":"soul"
         },
 
-        "noun_232": {
+		{
             "ita":"palazzo",
             "eng":"palace"
         },
 
-        "noun_233": {
+		{
             "ita":"passo",
             "eng":"step"
         },
 
-        "noun_234": {
+		{
             "ita":"giornata",
             "eng":"day"
         },
 
-        "noun_235": {
+		{
             "ita":"servizio",
             "eng":"service"
         },
 
-        "noun_236": {
+		{
             "ita":"rapporto",
             "eng":"relationship"
         },
 
-        "noun_237": {
+		{
             "ita":"milione",
             "eng":"million"
         },
 
-        "noun_238": {
+		{
             "ita":"stanza",
             "eng":"room"
         },
 
-        "noun_239": {
+		{
             "ita":"valore",
             "eng":"value"
         },
 
-        "noun_240": {
+		{
             "ita":"colpo",
             "eng":"blow"
         },
 
-        "noun_241": {
+		{
             "ita":"sangue",
             "eng":"blood"
         },
 
-        "noun_242": {
+		{
             "ita":"interesse",
             "eng":"interest"
         },
 
-        "noun_243": {
+		{
             "ita":"spalla",
             "eng":"shoulder"
         },
 
-        "noun_244": {
+		{
             "ita":"silenzio",
             "eng":"silence"
         },
 
-        "noun_245": { 
+		{ 
             "ita":"signorina",
             "eng":"young lady"
         },
 
-        "noun_246": {
+		{
             "ita":"ombra",
             "eng":"shadow"
         },
 
-        "noun_247": {
+		{
             "ita":"azione",
             "eng":"action"
         },
 
-        "noun_248": {
+		{
             "ita":"vento",
             "eng":"wind"
         },
 
-        "noun_249": {
+		{
             "ita":"mattina",
             "eng":"morning"
         },
 
-        "noun_250": {
+		{
             "ita":"colore",
             "eng":"color"
         },
 
-        "noun_251": {
+		{
             "ita":"presidente",
             "eng":"president"
         },
 
-        "noun_252": {
+		{
             "ita":"consiglio",
             "eng":"Advice"
         },
 
-        "noun_253": {
+		{
             "ita":"principe",
             "eng":"prince"
         },
 
-        "noun_254": {
+		{
             "ita":"viaggio",
             "eng":"travel"
         },
 
-        "noun_255": {
+		{
             "ita":"genere",
             "eng":"kind"
         },
 
-        "noun_256": {
+		{
             "ita":"giornale",
             "eng":"newspaper"
         },
 
-        "noun_257": {
+		{
             "ita":"spirito",
             "eng":"spirit"
         },
 
-        "noun_258": {
+		{
             "ita":"cavallo",
             "eng":"horse"
         },
 
-        "noun_259": {
+		{
             "ita":"muro",
             "eng":"Wall"
         },
 
-        "noun_260": {
+		{
             "ita":"situazione",
             "eng":"situation"
         },
 
-        "noun_261": {
+		{
             "ita":"linea",
             "eng":"line"
         },
 
-        "noun_262": {
+		{
             "ita":"giro",
             "eng":"round"
         },
 
-        "noun_263": {
+		{
             "ita":"automobile",
             "eng":"car"
         },
 
-        "noun_264": {
+		{
             "ita":"atto",
             "eng":"act"
         },
 
-        "noun_265": {
+		{
             "ita":"aspetto",
             "eng":"appearance"
         },
 
-        "noun_266": {
+		{
             "ita":"età",
             "eng":"age"
         },
 
-        "noun_267": {
+		{
             "ita":"fortuna",
             "eng":"luck"
         },
 
-        "noun_268": {
+		{
             "ita":"oro",
             "eng":"gold"
         },
 
-        "noun_269": {
+		{
             "ita":"partito",
             "eng":"party"
         },
 
-        "noun_270": {
+		{
             "ita":"macchina",
             "eng":"machine"
         },
 
-        "noun_271": {
+		{
             "ita":"carta",
             "eng":"paper"
         },
 
-        "noun_272": {
+		{
             "ita":"minuto",
             "eng":"minute"
         },
 
-        "noun_273": {
+		{
             "ita":"tratto",
             "eng":"stretch"
         },
 
-        "noun_274": {
+		{
             "ita":"settimana",
             "eng":"week"
         },
 
-        "noun_275": {
+		{
             "ita":"notizia",
             "eng":"news"
         },
 
-        "noun_276": {
+		{
             "ita":"fratello",
             "eng":"brother"
         },
 
-        "noun_277": {
+		{
             "ita":"realtà",
             "eng":"reality"
         },
 
-        "noun_278": {
+		{
             "ita":"industria",
             "eng":"industry"
         },
 
-        "noun_279": {
+		{
             "ita":"piacere",
             "eng":"pleasure"
         },
 
-        "noun_280": {
+		{
             "ita":"maestro",
             "eng":"master"
         },
 
-        "noun_281": {
+		{
             "ita":"personaggio",
             "eng":"character"
         },
 
-        "noun_282": {
+		{
             "ita":"pomeriggio",
             "eng":"afternoon"
         },
 
-        "noun_283": {
+		{
             "ita":"fianco",
             "eng":"side"
         },
 
-        "noun_284": {
+		{
             "ita":"bambina",
             "eng":"child"
         },
 
-        "noun_285": {
+		{
             "ita":"bellezza",
             "eng":"beauty"
         },
 
-        "noun_286": {
+		{
             "ita":"domanda",
             "eng":"question"
         },
 
-        "noun_287": {
+		{
             "ita":"pianta",
             "eng":"plant"
         },
 
-        "noun_288": {
+		{
             "ita":"pubblico",
             "eng":"public"
         },
 
-        "noun_289": {
+		{
             "ita":"sede",
             "eng":"seat"
         },
 
-        "noun_290": {
+		{
             "ita":"affare",
             "eng":"deal"
         },
 
-        "noun_291": {
+		{
             "ita":"bene",
             "eng":"well"
         },
 
-        "noun_292": {
+		{
             "ita":"metà",
             "eng":"half"
         },
 
-        "noun_293": {
+		{
             "ita":"papà",
             "eng":"Pope"
         },
 
-        "noun_294": {
+		{
             "ita":"fiume",
             "eng":"river"
         },
 
-        "noun_295": {
+		{
             "ita":"lotta",
             "eng":"fight"
         },
 
-        "noun_296": {
+		{
             "ita":"mercato",
             "eng":"market"
         },
 
-        "noun_297": {
+		{
             "ita":"angolo",
             "eng":"angle"
         },
 
-        "noun_298": {
+		{
             "ita":"compagnia",
             "eng":"company"
         },
 
-        "noun_299": {
+		{
             "ita":"espressione",
             "eng":"expression"
         },
 
-        "noun_300": {
+		{
             "ita":"labbro",
             "eng":"lip"
         },
 
-        "noun_301": {
+		{
             "ita":"villa",
             "eng":"villa"
         },
 
-        "noun_302": {
+		{
             "ita":"desiderio",
             "eng":"desire"
         },
 
-        "noun_303": {
+		{
             "ita":"serie",
             "eng":"series"
         },
 
-        "noun_304": {
+		{
             "ita":"visita",
             "eng":"visit"
         },
 
-        "noun_305": {
+		{
             "ita":"coraggio",
             "eng":"courage"
         },
 
-        "noun_306": {
+		{
             "ita":"direttore",
             "eng":"director"
         },
 
-        "noun_307": {
+		{
             "ita":"esercito",
             "eng":"army"
         },
 
-        "noun_308": {
+		{
             "ita":"grado",
             "eng":"degree"
         },
 
-        "noun_309": {
+		{
             "ita":"padrone",
             "eng":"master"
         },
 
-        "noun_310": {
+		{
             "ita":"risposta",
             "eng":"reply"
         },
 
-        "noun_311": {
+		{
             "ita":"tavola",
             "eng":"table"
         },
 
-        "noun_312": {
+		{
             "ita":"immagine",
             "eng":"image"
         },
 
-        "noun_313": {
+		{
             "ita":"montagna",
             "eng":"mountain"
         },
 
-        "noun_314": {
+		{
             "ita":"energia",
             "eng":"power"
         },
 
-        "noun_315": { 
+		{ 
         "ita":"fede",
         "eng":"wedding ring"
         },
 
-        "noun_316": {
+		{
             "ita":"pane",
             "eng":"bread"
         },
 
-        "noun_317": {
+		{
             "ita":"seguito",
             "eng":"following"
         },
 
-        "noun_318": {
+		{
             "ita":"estate",
             "eng":"summer"
         },
 
-        "noun_319": {
+		{
             "ita":"film",
             "eng":"movie"
         },
 
-        "noun_320": {
+		{
             "ita":"frutto",
             "eng":"fruit"
         },
 
-        "noun_321": {
+		{
             "ita":"onore",
             "eng":"honor"
         },
 
-        "noun_322": {
+		{
             "ita":"pericolo",
             "eng":"danger"
         },
 
-        "noun_323": {
+		{
             "ita":"scrittore",
             "eng":"writer"
         },
 
-        "noun_324": {
+		{
             "ita":"collina",
             "eng":"hill"
         },
 
-        "noun_325": {
+		{
             "ita":"zio",
             "eng":"uncle"
         },
 
-        "noun_326": {
+		{
             "ita":"difesa",
             "eng":"defence"
         },
 
-        "noun_327": {
+		{
             "ita":"metro",
             "eng":"meter"
         },
 
-        "noun_328": {
+		{
             "ita":"collo",
             "eng":"neck"
         },
 
-        "noun_329": {
+		{
             "ita":"cura",
             "eng":"care"
         },
 
-        "noun_330": {
+		{
             "ita":"disposizione",
             "eng":"layout"
         },
 
-        "noun_331": {
+		{
             "ita":"Domenica",
             "eng":"Sunday"
         },
 
-        "noun_332": { 
+		{ 
             "ita":"giovanotto",
             "eng":"young man"
         },
 
-        "noun_333": {
+		{
             "ita":"poeta",
             "eng":"poet"
         },
 
-        "noun_334": {
+		{
             "ita":"stagione",
             "eng":"season"
         },
 
-        "noun_335": {
+		{
             "ita":"peso",
             "eng":"weight"
         },
 
-        "noun_336": {
+		{
             "ita":"tono",
             "eng":"tone"
         },
 
-        "noun_337": {
+		{
             "ita":"croce",
             "eng":"cross"
         },
 
-        "noun_338": {
+		{
             "ita":"decisione",
             "eng":"decision"
         },
 
-        "noun_339": {
+		{
             "ita":"poesia",
             "eng":"poetry"
         },
 
-        "noun_340": {
+		{
             "ita":"fiducia",
             "eng":"confidence"
         },
 
-        "noun_341": {
+		{
             "ita":"filo",
             "eng":"wire"
         },
 
-        "noun_342": {
+		{
             "ita":"folla",
             "eng":"crowd"
         },
 
-        "noun_343": {
+		{
             "ita":"qualità",
             "eng":"quality"
         },
 
-        "noun_344": {
+		{
             "ita":"roba",
             "eng":"stuff"
         },
 
-        "noun_345": {
+		{
             "ita":"conoscenza",
             "eng":"knowledge"
         },
 
-        "noun_346": {
+		{
             "ita":"favore",
             "eng":"favor"
         },
 
-        "noun_347": {
+		{
             "ita":"popolazione",
             "eng":"population"
         },
 
-        "noun_348": {
+		{
             "ita":"strumento",
             "eng":"tool"
         },
 
-        "noun_349": {
+		{
             "ita":"uso",
             "eng":"use"
         },
 
-        "noun_350": {
+		{
             "ita":"vestito",
             "eng":"dress"
         },
 
-        "noun_351": {
+		{
             "ita":"commercio",
             "eng":"business"
         },
 
-        "noun_352": {
+		{
             "ita":"fabbrica",
             "eng":"factory"
         },
 
-        "noun_353": {
+		{
             "ita":"giugno",
             "eng":"June"
         },
 
-        "noun_354": {
+		{
             "ita":"giustizia",
             "eng":"justice"
         },
 
-        "noun_355": {
+		{
             "ita":"avvocato",
             "eng":"lawyer"
         },
 
-        "noun_356": {
+		{
             "ita":"messa",
             "eng":"mass"
         },
 
-        "noun_357": {
+		{
             "ita":"orecchio",
             "eng":"ear"
         },
 
-        "noun_358": {
+		{
             "ita":"sonno",
             "eng":"sleep"
         },
 
-        "noun_359": {
+		{
             "ita":"congresso",
             "eng":"congress"
         },
 
-        "noun_360": {
+		{
             "ita":"porto",
             "eng":"port"
         },
 
-        "noun_361": {
+		{
             "ita":"calcio",
             "eng":"football"
         },
 
-        "noun_362": {
+		{
             "ita":"fantasia",
             "eng":"fantasy"
         },
 
-        "noun_363": {
+		{
             "ita":"matrimonio",
             "eng":"marriage"
         },
 
-        "noun_364": {
+		{
             "ita":"medico",
             "eng":"doctor"
         },
 
-        "noun_365": {
+		{
             "ita":"ospedale",
             "eng":"Hospital"
         },
 
-        "noun_366": { 
+		{ 
             "ita":"pianura",
             "eng":"flat land"
         },
 
-        "noun_367": {
+		{
             "ita":"tavolo",
             "eng":"table"
         },
 
-        "noun_368": {
+		{
             "ita":"fame",
             "eng":"hunger"
         },
 
-        "noun_369": {
+		{
             "ita":"latte",
             "eng":"milk"
         },
 
-        "noun_370": {
+		{
             "ita":"merito",
             "eng":"merit"
         },
 
-        "noun_371": {
+		{
             "ita":"attore",
             "eng":"actor"
         },
 
-        "noun_372": {
+		{
             "ita":"ricchezza",
             "eng":"wealth"
         },
 
-        "noun_373": {
+		{
             "ita":"sacrificio",
             "eng":"sacrifice"
         },
 
-        "noun_374": {
+		{
             "ita":"atteggiamento",
             "eng":"attitude"
         },
 
-        "noun_375": {
+		{
             "ita":"concetto",
             "eng":"concept"
         },
 
-        "noun_376": {
+		{
             "ita":"mestiere",
             "eng":"craft"
         },
 
-        "noun_377": {
+		{
             "ita":"attesa",
             "eng":"waiting"
         },
 
-        "noun_378": {
+		{
             "ita":"bagno",
             "eng":"bathroom"
         },
 
-        "noun_379": {
+		{
             "ita":"foglia",
             "eng":"leaf"
         },
 
-        "noun_380": {
+		{
             "ita":"istante",
             "eng":"instant"
         },
 
-        "noun_381": {
+		{
             "ita":"lago",
             "eng":"lake"
         }
-    }
+    ]
 }
